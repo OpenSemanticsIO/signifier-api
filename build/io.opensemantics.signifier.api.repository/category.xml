@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/io.opensemantics.signifier.api.feature_0.0.1.qualifier.jar" id="io.opensemantics.signifier.api.feature" version="0.0.1.qualifier">
+      <category name="io.opensemantics.signifier.api.category"/>
+   </feature>
+   <bundle id="javax.validation" version="1.1.0.v201304101302">
+      <category name="io.opensemantics.signifier.api.category"/>
+   </bundle>
+   <category-def name="io.opensemantics.signifier.api.category" label="Signifier API"/>
+</site>
